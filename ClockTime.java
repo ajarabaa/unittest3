@@ -1,5 +1,3 @@
-package unittest3;
-
 /**
  * Name:  C.R.
  * Course:  CSCI-241 - Computer Science I
